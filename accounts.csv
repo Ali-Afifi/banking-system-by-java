@@ -1,0 +1,3 @@
+ID,Name,Type,Balance,Status,Last Purchase,Date of last purchase,Payment due date
+102,Mohamed,VIP,1000500.0,indebted,2000000.0,2021-06-09,2021-10-09
+103,Ali,VIP,1000500.0,clear,0.0, , 
